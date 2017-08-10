@@ -1,0 +1,4 @@
+E:\Projects\HTML5WebUtility\HTML5WebUtility\bin\Debug\HTML5Decode.dll
+E:\Projects\HTML5WebUtility\HTML5WebUtility\bin\Debug\HTML5Decode.pdb
+E:\Projects\HTML5WebUtility\HTML5WebUtility\obj\Debug\HTML5Decode.dll
+E:\Projects\HTML5WebUtility\HTML5WebUtility\obj\Debug\HTML5Decode.pdb

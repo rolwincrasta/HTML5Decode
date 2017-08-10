@@ -1,0 +1,8 @@
+E:\Projects\HTML5WebUtility\HTML5WebUtilityPortable\bin\Release\HTML5DecodePortable.dll
+E:\Projects\HTML5WebUtility\HTML5WebUtilityPortable\bin\Release\HTML5DecodePortable.pdb
+E:\Projects\HTML5WebUtility\HTML5WebUtilityPortable\obj\Release\HTML5DecodePortable.dll
+E:\Projects\HTML5WebUtility\HTML5WebUtilityPortable\obj\Release\HTML5DecodePortable.pdb
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\HTML5WebUtilityPortable\bin\Release\HTML5DecodePortable.dll
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\HTML5WebUtilityPortable\bin\Release\HTML5DecodePortable.pdb
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\HTML5WebUtilityPortable\obj\Release\HTML5DecodePortable.dll
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\HTML5WebUtilityPortable\obj\Release\HTML5DecodePortable.pdb

@@ -1,0 +1,4 @@
+E:\Projects\HTML5WebUtility\HTML5WebUtility\bin\Release\HTML5WebUtility.dll
+E:\Projects\HTML5WebUtility\HTML5WebUtility\bin\Release\HTML5WebUtility.pdb
+E:\Projects\HTML5WebUtility\HTML5WebUtility\obj\Release\HTML5WebUtility.dll
+E:\Projects\HTML5WebUtility\HTML5WebUtility\obj\Release\HTML5WebUtility.pdb

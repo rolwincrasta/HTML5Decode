@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5DecodePortable", "HTML5WebUtilityPortable\HTML5DecodePortable.csproj", "{0428DF7B-A34E-480A-B8E0-C2547B02A280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5Decode", "HTML5WebUtility\HTML5Decode.csproj", "{4EEEEA82-9D19-4DFB-B635-192EB3969CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{642BE359-89E1-48E4-AE5A-48743A2EE1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0428DF7B-A34E-480A-B8E0-C2547B02A280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0428DF7B-A34E-480A-B8E0-C2547B02A280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0428DF7B-A34E-480A-B8E0-C2547B02A280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0428DF7B-A34E-480A-B8E0-C2547B02A280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EEEEA82-9D19-4DFB-B635-192EB3969CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEEEA82-9D19-4DFB-B635-192EB3969CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEEEA82-9D19-4DFB-B635-192EB3969CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEEEA82-9D19-4DFB-B635-192EB3969CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642BE359-89E1-48E4-AE5A-48743A2EE1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642BE359-89E1-48E4-AE5A-48743A2EE1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642BE359-89E1-48E4-AE5A-48743A2EE1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642BE359-89E1-48E4-AE5A-48743A2EE1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

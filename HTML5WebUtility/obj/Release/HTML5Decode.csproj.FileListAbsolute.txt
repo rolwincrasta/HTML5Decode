@@ -1,0 +1,8 @@
+E:\Projects\HTML5WebUtility\HTML5WebUtility\bin\Release\HTML5Decode.dll
+E:\Projects\HTML5WebUtility\HTML5WebUtility\bin\Release\HTML5Decode.pdb
+E:\Projects\HTML5WebUtility\HTML5WebUtility\obj\Release\HTML5Decode.dll
+E:\Projects\HTML5WebUtility\HTML5WebUtility\obj\Release\HTML5Decode.pdb
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\HTML5WebUtility\bin\Release\HTML5Decode.dll
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\HTML5WebUtility\bin\Release\HTML5Decode.pdb
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\HTML5WebUtility\obj\Release\HTML5Decode.dll
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\HTML5WebUtility\obj\Release\HTML5Decode.pdb

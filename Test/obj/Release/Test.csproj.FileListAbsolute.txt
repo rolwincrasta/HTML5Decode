@@ -1,0 +1,16 @@
+E:\Projects\HTML5WebUtility\Test\bin\Release\Test.dll
+E:\Projects\HTML5WebUtility\Test\bin\Release\Test.pdb
+E:\Projects\HTML5WebUtility\Test\bin\Release\HTML5Decode.dll
+E:\Projects\HTML5WebUtility\Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\HTML5WebUtility\Test\bin\Release\HTML5Decode.pdb
+E:\Projects\HTML5WebUtility\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+E:\Projects\HTML5WebUtility\Test\obj\Release\Test.dll
+E:\Projects\HTML5WebUtility\Test\obj\Release\Test.pdb
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\Test\bin\Release\Test.dll
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\Test\bin\Release\Test.pdb
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\Test\bin\Release\HTML5Decode.dll
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\Test\bin\Release\HTML5Decode.pdb
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\Test\obj\Release\Test.dll
+E:\Projects\HTML5WebUtility\GIT\HTML5Decode\Test\obj\Release\Test.pdb
