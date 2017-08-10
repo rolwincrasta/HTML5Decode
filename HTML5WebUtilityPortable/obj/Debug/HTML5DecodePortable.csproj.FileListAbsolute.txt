@@ -1,4 +1,0 @@
-E:\Projects\HTML5WebUtility\HTML5WebUtilityPortable\bin\Debug\HTML5DecodePortable.dll
-E:\Projects\HTML5WebUtility\HTML5WebUtilityPortable\bin\Debug\HTML5DecodePortable.pdb
-E:\Projects\HTML5WebUtility\HTML5WebUtilityPortable\obj\Debug\HTML5DecodePortable.dll
-E:\Projects\HTML5WebUtility\HTML5WebUtilityPortable\obj\Debug\HTML5DecodePortable.pdb

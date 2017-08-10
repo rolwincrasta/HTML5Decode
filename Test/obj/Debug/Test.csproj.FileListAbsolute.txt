@@ -1,8 +1,0 @@
-E:\Projects\HTML5WebUtility\Test\bin\Debug\Test.dll
-E:\Projects\HTML5WebUtility\Test\bin\Debug\Test.pdb
-E:\Projects\HTML5WebUtility\Test\bin\Debug\HTML5Decode.dll
-E:\Projects\HTML5WebUtility\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-E:\Projects\HTML5WebUtility\Test\bin\Debug\HTML5Decode.pdb
-E:\Projects\HTML5WebUtility\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
-E:\Projects\HTML5WebUtility\Test\obj\Debug\Test.dll
-E:\Projects\HTML5WebUtility\Test\obj\Debug\Test.pdb
