@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5DecodePortable", "HTML
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5Decode", "HTML5WebUtility\HTML5Decode.csproj", "{4EEEEA82-9D19-4DFB-B635-192EB3969CF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{642BE359-89E1-48E4-AE5A-48743A2EE1E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5Decode.Tests", "Test\HTML5Decode.Tests.csproj", "{642BE359-89E1-48E4-AE5A-48743A2EE1E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
